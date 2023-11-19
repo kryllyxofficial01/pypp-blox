@@ -1,0 +1,6 @@
+- [x] Figure out widget locations (block panel, preview, etc.)
+- [ ] Dragging shapes from one part of the screen to another
+- [ ] Making the sprite
+- [ ] Creating block functionality
+    - [ ] Textbox inputs
+    - [ ] Attach block actions to sprite
